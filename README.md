@@ -4,7 +4,7 @@ A fun and interactive dice game for two players built with HTML, CSS, and JavaSc
 
 ## 🌐 Live Demo
 
-**[🎮 Play the Game](https://nkiue-pig-game.vercel.app/)**
+**[Play the Game](https://nkiue-pig-game.vercel.app/)**
 
 _Try it now - no installation required!_
 
@@ -27,29 +27,26 @@ _Try it now - no installation required!_
 
 ## 🚀 Getting Started
 
-### Quick Start
-
-**[🎮 Play Online](https://nkiue-pig-game.vercel.app/)** - No download needed!
-
-### Local Development
+### Prerequisites
 
 - A modern web browser
 - No additional installations required!
 
-### Running the Game
+### Running the Game Locally
 
 1. Clone or download this repository
-2. Make sure you have these files in the same directory:
-   - `index.html`
-   - `style.css`
-   - `script.js`
-   - `dice-1.png` through `dice-6.png` (dice images)
-3. Open `index.html` in your web browser
-4. Start playing!
+2. Open `index.html` in your web browser
+3. Start playing!
+
+## 🛠️ Technologies Used
+
+- **HTML5** - Game structure
+- **CSS3** - Styling and animations
+- **Vanilla JavaScript** - Game logic and DOM manipulation
 
 ## 🎉 Credits
 
-Created as a learning project to demonstrate DOM manipulation, and event handling.
+Created as a learning project to demonstrate DOM manipulation and event handling.
 
 ---
 
