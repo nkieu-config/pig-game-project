@@ -1,52 +1,74 @@
-# 🎲 Pig Game
+# 🎲 Pig Game – Vanilla JS Project
 
-A fun and interactive dice game for two players built with HTML, CSS, and JavaScript. Race to be the first player to reach 100 points!
+A fun, interactive dice game for two players, built using HTML, CSS, and Vanilla JavaScript. Developed as a hands-on learning project for mastering DOM manipulation, events, and basic game logic.
 
 ## 🌐 Live Demo
 
-**[Play the Game](https://nkiue-pig-game.vercel.app/)**
+👉 [Play Now](https://nkiue-pig-game.vercel.app)
 
-_Try it now - no installation required!_
+---
 
-## 🎮 How to Play
+## 📖 Game Rules
 
-### Game Rules
+- 🎯 Goal: Be the first to reach **100 points**.
+- 👬 2 players take turns.
+- 🎲 On your turn:
 
-1. **Two players** take turns rolling a dice
-2. On each turn, a player can roll the dice multiple times
-3. Each roll adds to your **current score** for that turn
-4. **But be careful!** If you roll a 1, you lose all points from your current turn
-5. You can choose to **"Hold"** to save your current turn's points to your total score
-6. **First player to reach 100 points wins!**
+  - You may roll the dice as many times as you like.
+  - Each roll adds the result to your **current turn score**.
+  - If you roll a **1**, you lose all points from this turn, and the turn switches.
+  - You can **Hold** to bank your points and pass the turn.
 
-### Controls
+- 🏆 First player to hit **100 points** wins!
 
-- **🎲 Roll Dice**: Roll the dice to add points to your current score
-- **✋ Hold**: Save your current turn's points and pass turn to other player
-- **🔄 New Game**: Start a fresh game
+---
 
-## 🚀 Getting Started
+## 🕹️ Controls
 
-### Prerequisites
+| Action        | Button      |
+| ------------- | ----------- |
+| Roll the Dice | `Roll Dice` |
+| Hold Score    | `Hold`      |
+| Reset Game    | `New Game`  |
 
-- A modern web browser
-- No additional installations required!
+---
 
-### Running the Game Locally
+## 💻 Running Locally
 
 1. Clone or download this repository
-2. Open `index.html` in your web browser
-3. Start playing!
+
+   ```bash
+   git clone https://github.com/nkieu-config/pig-game-project.git
+   ```
+
+2. Open `index.html` in your preferred browser
+3. Enjoy the game!
+
+---
 
 ## 🛠️ Technologies Used
 
-- **HTML5** - Game structure
-- **CSS3** - Styling and animations
-- **Vanilla JavaScript** - Game logic and DOM manipulation
+- 🔹 **HTML5** – Game layout & structure
+- 🔹 **CSS3** – Styling, transitions, and layout
+- 🔹 **Vanilla JavaScript** – Core game logic & DOM control
 
-## 🎉 Credits
+---
 
-Created as a learning project to demonstrate DOM manipulation and event handling.
+## 📚 Key Learning Topics
+
+This project helped practice and reinforce:
+
+- ✅ DOM selection & manipulation
+- ✅vent handling
+- ✅ Game state management
+- ✅ Dynamic UI updates
+
+---
+
+## 🧠 Credits
+
+This project is a practical exercise from:
+📘 _[The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/)_ by [Jonas Schmedtmann](https://codingheroes.io)
 
 ---
 
