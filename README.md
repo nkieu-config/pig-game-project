@@ -1,4 +1,4 @@
-# 🎲 Pig Game – Vanilla JS Project
+# 🎲 Pig Game
 
 A fun, interactive dice game for two players, built using HTML, CSS, and Vanilla JavaScript. Developed as a hands-on learning project for mastering DOM manipulation, events, and basic game logic.
 
