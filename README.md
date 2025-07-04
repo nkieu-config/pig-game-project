@@ -2,15 +2,19 @@
 
 An interactive two-player dice game built with **HTML**, **CSS**, and **Vanilla JavaScript**. This project simulates turn-based logic, dynamic UI updates, and game state management — a great exercise in DOM manipulation and event-driven programming.
 
-> Practice game loops, event handling, and user interaction — with a bit of fun!
-
 ---
 
 ## 🌐 Live Demo
 
 👉 [**Play the Game**](https://nkiue-pig-game.vercel.app)
 
-> Try it out with a friend — first to 100 wins!
+Try it out with a friend — first to 100 wins!
+
+---
+
+## 📸 Screenshots
+
+<img src="public/screenshot.png" alt="Pig Game Screenshot" width="100%" height>
 
 ---
 
