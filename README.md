@@ -14,7 +14,7 @@ Try it out with a friend — first to 100 wins!
 
 ## 📸 Screenshots
 
-<img src="public/screenshot.png" alt="Pig Game Screenshot" width="100%" height>
+<img src="screenshots/screenshot.png" alt="Pig Game Screenshot" width="100%" height>
 
 ---
 
